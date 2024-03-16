@@ -31,3 +31,4 @@
 Click the button below to reach me:
 <br>
 <br>
+<a href="https://www.linkedin.com/in/beatriz-cirqueira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
